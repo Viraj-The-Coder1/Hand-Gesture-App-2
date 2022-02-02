@@ -1,0 +1,20 @@
+h1{
+    font-size: 30px !important;
+    letter-spacing: 5px;
+}
+body{
+    background-color: darkcyan;
+}
+p{
+    font-size: 30px;
+}
+#webcam{
+    border: 3.5px dotted crimson;
+    width: 310;
+    height: 315;
+}
+#snap{
+    border: 3.5px dashed blueviolet;
+    width: 310;
+    height: 315;
+}
